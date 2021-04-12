@@ -1,5 +1,5 @@
 body{
-	background-image:url()
+	background-color: #E0FFFF;
 	font-family: calibri;
 	font-size: 1.1em;
 	color: black;
@@ -42,7 +42,7 @@ body{
 }
 
 header{
-	border-bottom: 1px solid #000000;
+	border-bottom: 1px solid #b4d425;
 	
 	display: inline-block;
 	height: 200px;
@@ -122,14 +122,14 @@ footer{
 .logo {
 	margin-left: 0px;
 	margin-bottom: 20px;
-	background-color: #BEBEBE;
+	background-color: #d0f30a;
 	position: absolute;
 	z-index: 11;
 }
 
 a{
 	text-decoration: none;
-	color: rgb(30, 255, 124);
+	color: rgb(46, 136, 136);
 	opacity: 0.9;
 }
 
@@ -161,15 +161,15 @@ img {
 
 .red
 {
-    background-color: #e90221;
+    background-color: #09bfec;
 }
 .black
 {
-    background-color: #000000;
+    background-color: #b46425;
 }
 .lightgray
 {
-    background-color: #D3D3D3;
+    background-color: #9e464d;
 }
 
 .colors figure {
